@@ -12,6 +12,18 @@ This is a real-time chat application built using the MERN stack (MongoDB, Expres
 - **User Online Status:** See the online status of other users in the chat room.
 - **Responsive Design:** The application is designed to be responsive and accessible on various devices.
 
+## Preview
+![10](https://github.com/NoOb-CodEr786/MERN-Chat-AppIication/assets/111687485/208bf2f9-1c7e-4633-adc7-efc5467ae83d)
+![9](https://github.com/NoOb-CodEr786/MERN-Chat-AppIication/assets/111687485/33fc8a09-ea44-4b28-a102-5f08d8390f50)
+![2](https://github.com/NoOb-CodEr786/MERN-Chat-AppIication/assets/111687485/65097807-7a80-4e50-a8a6-ae4709eb8cb1)
+![1](https://github.com/NoOb-CodEr786/MERN-Chat-AppIication/assets/111687485/72b2dee9-0782-4ae8-b182-6633b5743e63)
+![7](https://github.com/NoOb-CodEr786/MERN-Chat-AppIication/assets/111687485/b2b6e5f6-916d-4ad4-93f6-ca9c5e729940)
+![6](https://github.com/NoOb-CodEr786/MERN-Chat-AppIication/assets/111687485/fd6e9ab2-c62d-49c5-8efe-76688cbb95eb)
+![5](https://github.com/NoOb-CodEr786/MERN-Chat-AppIication/assets/111687485/c68e34e1-d995-4835-85bf-22c47a36812b)
+![4](https://github.com/NoOb-CodEr786/MERN-Chat-AppIication/assets/111687485/84b7df46-1890-4f74-9a91-a2980d238fe0)
+![3](https://github.com/NoOb-CodEr786/MERN-Chat-AppIication/assets/111687485/0d513994-3eab-4f73-b060-f9ab3181aad7)
+
+
 ## Prerequisites
 
 Make sure you have the following installed:
